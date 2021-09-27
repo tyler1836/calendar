@@ -10,3 +10,4 @@
 - If green you still have time to complete task
 - If red task must be completed within the hour
 - If gray task time has passed
+### Try it out here [https://tyler1836.github.io/calendar/]
