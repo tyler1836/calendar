@@ -4,9 +4,9 @@ var hourEl = document.getElementsByClassName("hour")
 var containerEl = document.querySelector('.container')
 var dateEl = document.getElementById("currentDay");
 
-var now = parseInt(moment().format('h'));
+var now = parseInt(moment().format('H'));
 
-
+console.log(now)
 
 
 window.setInterval(function () {
